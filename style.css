@@ -6,7 +6,7 @@
         width: 100%;
         height: 100vh;
         font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        background: linear-gradient(-45deg, #aa63e4, #952b99, #143646);
+        background: linear-gradient(-45deg, #e4638a, #992b81, #1d1446);
     }
     #form{
         position: relative;
